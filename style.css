@@ -1,0 +1,77 @@
+.PHB{
+    text-align: center;
+}
+
+
+.t{
+   background-color:whitesmoke ;
+   color: red;
+
+
+}
+
+
+#selwel{
+    border-radius: 10%;
+    text-align: center;
+}
+
+#bombchik{
+    border-radius: 10%;
+    text-align: center;
+}
+#gorg{
+   text-align: center;
+   color: red;
+   border-width: 100000;
+}
+.t3{
+    text-align: center;
+}
+
+.leb{
+    border-radius: 45px;
+    border-color: black;
+    border-style: ridge;
+    border: 11110cap;
+  
+
+}
+.y{
+    text-align: center;
+    border-radius: 10%;
+    align-self: center;
+}
+.ljublajana{
+    float: left 100%;
+    position: relative;
+
+}
+#img{
+    float: right !important;
+    margin-right: 0;
+}
+/* The alert message box */
+.alert {
+    padding: 20px;
+    background-color: #f44336; /* Red */
+    color: white;
+    margin-bottom: 15px;
+  }
+  
+  /* The close button */
+  .closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  /* When moving the mouse over the close button */
+  .closebtn:hover {
+    color: black;
+  }
